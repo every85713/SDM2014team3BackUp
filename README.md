@@ -1,7 +1,7 @@
 In the Beginning
 =================
 This project is not only done by me and most of them are done by other team members.
-I just want to backup it.
+I just want to back it up.
 
 
 SDM2014fall
